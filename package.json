@@ -1,0 +1,16 @@
+{
+  "name": "ting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzBuzz.js",
+  "dependencies": {
+    "jest": "^24.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node fizzBuzz",
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
